@@ -1,4 +1,5 @@
-### [Analysis and Characterization of Wi-Fi Channel State Information](https://eletoo.github.io/docs/Tesi_Elena_Tonini___matr__727382.pdf)
+### Bachelor's Degree Thesis
+#### [Analysis and Characterization of Wi-Fi Channel State Information](https://eletoo.github.io/docs/Tesi_Elena_Tonini___matr__727382.pdf)
 
 This thesis is a report on the analysis of **Wi-Fi Channel State Information (CSI)** aiming at characterizing the wireless channel and providing a mathematical
 model for it working at the timescale of frame transmission.
@@ -15,3 +16,5 @@ for it that can be used to model the channel at the frame level.
 
 The obtained model can help improve the technical aspects of the implementation of Joint Communication and Sensing in future networks so that it
 will be possible to efficiently take advantage of the properties of the channels to fulfil the goals that upcoming technologies will set.
+
+[Back](../)
