@@ -10,4 +10,4 @@ description: Here you can find more information about me
 
 
 
-[Back](./)
+[Back](../)
