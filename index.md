@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[About me](./about.html).
+[About me](./pages/about.html).
