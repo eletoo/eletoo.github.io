@@ -4,8 +4,11 @@ layout: default
 
 [About me](./pages/about.html).
 
-# Here you can find my Bachelor's Degree thesis
-## [Analysis and Characterization of Wi-Fi Channel State Information](https://eletoo.github.io/docs/Tesi_Elena_Tonini___matr__727382.pdf)
+
+# Projects 
+
+## Bachelor's Degree thesis
+### [Analysis and Characterization of Wi-Fi Channel State Information](https://eletoo.github.io/docs/Tesi_Elena_Tonini___matr__727382.pdf)
 
 This thesis is a report on the analysis of **Wi-Fi Channel State Information (CSI)** aiming at characterizing the wireless channel and providing a mathematical
 model for it working at the timescale of frame transmission.
