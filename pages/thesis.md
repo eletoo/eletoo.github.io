@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bachelor's Degree Thesis
-description: 
+description: Thesis
 ---
 
 ### Bachelor's Degree Thesis
