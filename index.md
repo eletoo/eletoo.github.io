@@ -8,3 +8,4 @@ layout: default
 # Projects 
 
 ## [Bachelor's Degree thesis](./pages/thesis.md)
+
