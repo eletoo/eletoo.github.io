@@ -11,8 +11,7 @@ description: Here you can find more information about me
 Università degli Studi di Brescia
 
 Department of Information Engineering
-` `  
-` `
+
 
 ## Bachelor's Degree in Computer Science and Engineering
 ### 2019 - 2022
@@ -21,8 +20,7 @@ Università degli Studi di Brescia
 Department of Information Engineering
 
 Graduation mark: 106/110
-` `  
-` ` 
+ 
 
 ## Classical High School Diploma
 ### 2014 - 2019
