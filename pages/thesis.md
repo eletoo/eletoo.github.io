@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Bachelor's Degree Thesis
-description: Thesis
 ---
 
-### Bachelor's Degree Thesis
-#### Analysis and Characterization of Wi-Fi Channel State Information
+### Analysis and Characterization of Wi-Fi Channel State Information
 
 The thesis is a report on the analysis of **Wi-Fi Channel State Information (CSI)** aiming at characterizing the wireless channel and providing a mathematical model for it working at the timescale of frame transmission.
 
