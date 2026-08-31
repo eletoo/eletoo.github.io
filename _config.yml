@@ -25,8 +25,8 @@ links:
 accent_color: "#89cff0"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Elena Tonini"
-baseurl: "https://eletoo.github.io"
-url: ""
+url: "https://eletoo.github.io"
+baseurl: ""
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
