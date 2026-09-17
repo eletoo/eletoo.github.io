@@ -3,6 +3,9 @@
 # Each entry needs: date, headline
 - date: 16 September, 2026
   headline: "Paper 'Energy-Efficient CSI-Based People Tracking with Spiking Neural Networks' presented at NeuroPHY 2026 in Dresden, Germany"
+  
+- date: 20 July, 2026
+  headline: "Paper 'Inside the Channel: a Stochastic Analysis of the CSI for Wi-Fi Sensing' accepted for publication on the IEEE Internet of Things Journal"
 
 - date: 3 July, 2026
   headline: "Best poster award at the Mediterranean Artificial Intelligence and Networking Conference"
