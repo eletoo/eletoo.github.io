@@ -1,6 +1,9 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
+- date: 16 September, 2026
+  headline: "Paper 'Energy-Efficient CSI-Based People Tracking with Spiking Neural Networks' presented at NeuroPHY 2026 in Dresden, Germany"
+
 - date: 3 July, 2026
   headline: "Best poster award at the Mediterranean Artificial Intelligence and Networking Conference"
 
